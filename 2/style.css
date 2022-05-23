@@ -1,0 +1,113 @@
+                                        .abd1 {
+                                            display: flex;
+                                            background-color: rgb(213, 188, 161);
+                                            justify-content: space-between;
+                                            align-items: center;
+                                            column-gap: 50px;
+                                        }
+                                        
+                                        .abd1a {
+                                            padding-right: 50px;
+                                            /* position: relative;bottom: -10px;left: 1200px; */
+                                        }
+                                        
+                                        .abd1b {
+                                            font-size: 40px;
+                                            margin-left: 300px;
+                                        }
+                                        
+                                        .abd0 {
+                                            display: flex;
+                                            justify-content: flex-end;
+                                            align-items: center;
+                                            column-gap: 20px;
+                                            list-style-type: none;
+                                            background-color: brown;
+                                            height: 50px;
+                                            /* padding-top: 30px; */
+                                            /* padding-left: 1000px; */
+                                            margin-top: -0.5px;
+                                            padding-right: 70px;
+                                        }
+                                        
+                                        .abd0 a {
+                                            text-decoration: none;
+                                            color: aliceblue;
+                                            font-size: 20px;
+                                            font-weight: bold;
+                                        }
+                                        
+                                        .abd0 li {
+                                            /* display: inline; */
+                                            /* padding: 10px;} */
+                                        }
+                                        
+                                        .abd {
+                                            font-size: xxx-large;
+                                            font-weight: bold;
+                                            margin: 1px;
+                                            padding-bottom: 30px;
+                                        }
+                                        
+                                        .abd2 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+                                        
+                                        .abd2b {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                            font-size: 50px;
+                                            font-weight: bolder;
+                                            /* align-items: center; */
+                                            /* margin-left: 500px; */
+                                        }
+                                        
+                                        .abd2a {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                            font-size: 50px;
+                                            font-weight: bolder;
+                                            /* align-items: center; */
+                                            /* margin-left: 550px; */
+                                            /* margin-top: -40px; */
+                                        }
+                                        /* .abd3 { display: inline-block;text-align: center;} */
+                                        
+                                        .abd3 {
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+                                        
+                                        .abd4 {
+                                            color: black;
+                                            font-size: 30px;
+                                            font-weight: bold;
+                                            margin: 1px;
+                                            padding-bottom: 30px;
+                                        }
+                                        
+                                        .abd4a {
+                                            color: black;
+                                            font-size: 30px;
+                                            font-weight: bold;
+                                            margin: 1px;
+                                            padding-bottom: 30px;
+                                        }
+                                        /* .abd5 {display: inline-block;text-align: center; position: relative; left: 20%;top: -30px;} */
+                                        
+                                        .abd6 {
+                                            text-align: center;
+                                            background-color: rgb(213, 188, 161);
+                                        }
+                                        
+                                        .abd7 {
+                                            display: flex;
+                                            justify-content: space-around;
+                                            flex-wrap: wrap;
+                                            column-gap: 150px;
+                                        }
